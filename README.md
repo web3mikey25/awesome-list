@@ -1,12 +1,11 @@
-# Awesome List
+# Mikey's Awesome List
 
 ## AI
-1. [Vercel AI](https://ai-sdk.dev/)
-2. [Langchain](https://www.langchain.com/)
-3. [ElizaOS](https://elizaos.ai/)
-4. [Ollama](https://ollama.com/)
-5. [n8n Github](https://github.com/n8n-io/n8n)
-6. 
+- [Vercel AI](https://ai-sdk.dev/)
+- [Langchain](https://www.langchain.com/)
+- [ElizaOS](https://elizaos.ai/)
+- [Ollama](https://ollama.com/)
+- [n8n Github](https://github.com/n8n-io/n8n)
 
 ## Blockchain Stack
 - [OP Stack](https://docs.optimism.io/concepts/stack/getting-started)
