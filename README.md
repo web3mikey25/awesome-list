@@ -1,40 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Awesome List
 
-## Getting Started
+## AI
+1. [Vercel AI](https://ai-sdk.dev/)
+2. [Langchain](https://www.langchain.com/)
+3. [ElizaOS](https://elizaos.ai/)
+4. [Ollama](https://ollama.com/)
+5. [n8n Github](https://github.com/n8n-io/n8n)
+6. 
 
-First, run the development server:
+## Blockchain Stack
+- [OP Stack](https://docs.optimism.io/concepts/stack/getting-started)
+- [Arb Stack](https://docs.arbitrum.io/launch-arbitrum-chain/a-gentle-introduction)
+- [Rust ETH](https://github.com/paradigmxyz/reth)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## P2P
+- [Hypercore](https://hypercore-protocol.github.io/new-website/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tools
+- [Remix](http://remix.ethereum.org/)
+- [Pinata](https://pinata.cloud/)
+- [Infura](https://www.infura.io/)
+- [Coinbase Developer](https://portal.cdp.coinbase.com/signin?locale=en)
+- [Reown/WalletConnect](https://dashboard.reown.com/)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Databases
+- [Supabase](https://supabase.com)
+- [MongoDB](https://www.mongodb.com)
+- [Redis](https://redis.io)
+- [Prisma](https://www.prisma.io/)
+- [PlanetScale](https://planetscale.com/)
+- [Tiger](https://www.tigerdata.com/)
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## DevOps
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## Tracking and Monitoring
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Testing and Security
+- [Bombardier](https://github.com/codesenberg/bombardier)
+- [Puppeteer](https://pptr.dev/)
+- [Cucumber](https://cucumber.io/)
+- [Mocha](https://mochajs.org/)
+- [BrowserStack](https://www.browserstack.com/)
+- [Chai](https://www.chaijs.com/)
 
-## Learn More
+## Frontend
+- [Chakra](https://chakra-ui.com/)
+- [ShadCN](https://ui.shadcn.com/)
+- [Geist](https://geist-ui.dev/)
+- [XyFlow](https://xyflow.com/)
 
-To learn more about Next.js, take a look at the following resources:
+## Programming Languages
+- [Typescript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
+- [Rust](https://rust-lang.org/)
+- [Go](https://go.dev/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+## Password Generator
+- [LightNode](https://go.lightnode.com/resources/password-generator)
+- [LastPass](https://www.lastpass.com/features/password-generator)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## Faucets
