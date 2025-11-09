@@ -12,6 +12,10 @@
 - [Arb Stack](https://docs.arbitrum.io/launch-arbitrum-chain/a-gentle-introduction)
 - [Rust ETH](https://github.com/paradigmxyz/reth)
 
+## SDKs
+- [OKX Wallet Web3](https://github.com/okx/js-wallet-sdk)
+- [Thirdweb Dev](https://github.com/thirdweb-dev)
+
 ## P2P
 - [Hypercore](https://hypercore-protocol.github.io/new-website/)
 
@@ -21,6 +25,7 @@
 - [Infura](https://www.infura.io/)
 - [Coinbase Developer](https://portal.cdp.coinbase.com/signin?locale=en)
 - [Reown/WalletConnect](https://dashboard.reown.com/)
+- [Thirdweb](http://thirdweb.com/)
 
 ## Databases
 - [Supabase](https://supabase.com)
@@ -29,6 +34,7 @@
 - [Prisma](https://www.prisma.io/)
 - [PlanetScale](https://planetscale.com/)
 - [Tiger](https://www.tigerdata.com/)
+- [Rethink](https://github.com/rethinkdb/rethinkdb)
 
 ## DevOps
 
